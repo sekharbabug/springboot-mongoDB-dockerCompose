@@ -4,3 +4,6 @@ spring:
       database: Book
       host: javatechiemongodb
       port: 27017
+
+server:
+  port: 8082
